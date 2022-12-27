@@ -81,4 +81,6 @@ export const colors = {
    *
    */
   errorBackground: palette.angry100,
+
+  tabBarColor: palette.neutral800
 }
